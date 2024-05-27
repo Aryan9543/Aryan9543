@@ -1,3 +1,4 @@
+![logo](https://github.com/Aryan9543/Aryan9543/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
